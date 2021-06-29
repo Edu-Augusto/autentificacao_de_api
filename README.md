@@ -22,6 +22,7 @@
                 </pre>
                     Depois de criado,ative a função novamente e controle seu projeto.
             </li>
+            <br>    
             <li>Após isso, vá na pasta database e entre no arquivo datbase.js e modifique o seguinte script para a senha e login do seu mysql, que deve ser criado anteriormente:
                 <pre>
                     <code>
