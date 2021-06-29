@@ -20,6 +20,7 @@
                         app.post('/usercreate'(remova esta função >>,"auth",<<) (req, res) => {
                     </code>
                 </pre>
+                    Após isso pode ativar a função novamente e controlar seu projeto.
             </li>
             <li>Após isso, vá na pasta database e entre no arquivo datbase.js e modifique o seguinte script para a senha e login do seu mysql, que deve ser criado anteriormente:
                 <pre>
