@@ -4,6 +4,8 @@
         <p>Esta é um pequeno projeto de autentificação de API com JWT.O autentificador gera um token para o usuário logado com sucesso que vale por 48 horas.Para testar a ferramenta, utiliza-se o projeto Api_de_games upado nesse perfil com o arquivo user.js adicionado na pasta database e  com os scripts atualizos com as funcionalidades do JWT.Espero que apreciem este projeto e esperem por projetos mais completos e robustos futuramente.
         <p>Atenciosamente <strong>Eduardo Augusto Oliveira</strong>.</p>
         </p>
+        <h3>Lembrete</h3>
+        <p>Lembrando que é essencial que siga os passos de instalação do projeto Api_de_games antes de seguir estes, pois o projeto é um complemento do outro.</p>
         <h3>Ferramentas utilizadas e necessárias do projeto</h3>
         <p>A seguir estão os scripts necessários para a execução da autentificação API.Para executa-lo com os resultados esperados,primeiramente abra seu CMD na pasta da API e digite o seguinte script :</p>
         <ol>
